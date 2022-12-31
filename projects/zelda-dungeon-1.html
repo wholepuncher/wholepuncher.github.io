@@ -1,21 +1,54 @@
-<html>
+<!DOCTYPE html> 
+<html lang="en"> 
 
 <head>
-    <title>Chenshu's Portfolio</title>
+    <title>Zelda Recreation - Portfolio</title>
     <link rel="stylesheet" href="/css/style.css">
     <script src="/js/navbar_component.js" type="text/javascript" defer></script>
+    <script src="/js/gamebar_component.js" type="text/javascript" defer></script>
 </head>
 
-<body>
+<body style="display:none">
     
     <navigation-bar></navigation-bar>
 
-    <div id="page">
-        <h1>The Legend of Zelda (1986) Dungeon 1 Recreation</h1>
-        
-        <p>test test test</p>
-        
-        <a href="/unity-games/p1/">Play the WebGL Build!</a>
+    <div id="page" class="has-columns">
+
+        <game-bar></game-bar>
+
+        <div class="game-page">
+
+            <div class="game-overview">
+                <p>main img/zoomed thumbnail</p>
+    
+                <h1>The Legend of Zelda (1986) Dungeon 1 Recreation</h1>
+    
+                <a href="/unity-games/p1/">Play the WebGL Build!</a>
+    
+                <p>date</p>
+                <p>context + group size</p>
+                <p>game genre + blurb</p>
+                <p>description</p>
+            </div>
+
+            <div class="game-body">
+                <h2>Gallery</h2>
+                        
+                <div class="gallery">
+                    <div class="gallery-item">
+                        <a href="/assets/bbus-images/stage_intro.png">
+                            <img src="/assets/bbus-images/stage_intro.png" alt="" class="gallery-img">
+                        </a>
+                        <p class="gallery-caption">dwaw</p>
+                    </div>                    
+                </div>
+
+                <h2>Description</h2>
+    
+                <p>test test test</p>            
+            </div>
+            
+        </div>
     </div>
     
 </body>

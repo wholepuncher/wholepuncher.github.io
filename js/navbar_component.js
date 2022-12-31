@@ -9,6 +9,7 @@ class NavBar extends HTMLElement {
                 <a href="/" class="navbar-button">Home</a>
                 <a href="/projects/" class="navbar-button">Projects</a>
                 <a href="/about.html" class="navbar-button">About</a>
+                <a href="/links.html" class="navbar-button">Links</a>
                 <div class="navbar-contact">
                     <p>contact!</p>
                 </div>

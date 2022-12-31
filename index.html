@@ -1,12 +1,16 @@
-<html>
+<!DOCTYPE html> 
+<html lang="en"> 
+
 
 <head>
-    <title>Chenshu's Portfolio</title>
+    <title>Home - Portfolio</title>
     <link rel="stylesheet" href="/css/style.css">
     <script src="/js/navbar_component.js" type="text/javascript" defer></script>
+    <script>window.onload = (event) => { console.log(document.getElementById("waitforload")); };</script>
 </head>
 
-<body>
+<body style="display:none">
+    
     <navigation-bar></navigation-bar>
 
     <div id="page">
@@ -14,11 +18,31 @@
         <h1>Home</h1>
     
         <h2>Welcome!</h2>
-        <p>This is a portfolio website with my projects.</p>
+        <p>This is a portfolio website with my projects. Most will be games or game related</p>
 
         <h2>Featured Projects</h2>
+        <p>More projects avilable under <a href="/projects/">Projects</a>.</p>
+
+        <div class="project-desc">
+            <a href="#"><img src="/assets/peek.png" alt="test" class="project-thumb"></a>
+            <h3>dadw Bus</h3>
+            <p><a href="#">Project Page</a>&nbsp&nbsp&nbsp&nbsp<a href="#">Play the WebGL Build!</a></p>
+            <p><i>September 2018 - December 2018</i>, ENGR100-650: Gaming for the Greater Good, <i>Individual</i></p>
+            <p>Description</p>
+        </div>
+
+        <div class="project-desc">
+            <a href="/projects/breakfast-bus.html">
+                <img src="/assets/bbus-images/title_screen.png" alt="The Breakfast Bus title screem" class="project-thumb">
+            </a>
+            <h3>The Breakfast Bus</h3>
+            <p><a href="/projects/breakfast-bus.html">Project Page</a></p>
+            <p><i>September 2018 - December 2018</i>,&nbsp ENGR100-650: Gaming for the Greater Good,&nbsp <i>Group of 4</i></p>
+            <p>Description</p>
+        </div>
 
         <h2>Changelog</h2>
+        <p>12/30/22</p>
         
         <ul>
             <li><a href="/unity-games/p1/">The Legend of Zelda (Unity Remaster)</a></li>
