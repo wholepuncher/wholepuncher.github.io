@@ -105,7 +105,7 @@
     float: left;
     position: relative;
     height: 150px;
-    margin-right: 20px;
+    margin-right: 10px;
     background-color: #7441b3;
 }
 
@@ -180,10 +180,7 @@
 body {
     background-color: #e3b78d;
     margin: 0px;
-}
-
-#waitforload {
-    visibility: hidden;
+    height: 100%;
 }
 
 p {
@@ -196,6 +193,5 @@ h3 {
 
 html {
     overflow-y: scroll;
+    height:100%;    
 }
-
-body { display:block !important }
