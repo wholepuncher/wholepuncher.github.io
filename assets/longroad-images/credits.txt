@@ -1,0 +1,57 @@
+Credits:
+
+Code:
+EventBus: Professor Yarger and 494 Staff
+Mouse in window: http://answers.unity.com/answers/1681937/view.html
+Outline Shader: https://www.reddit.com/r/Unity3D/comments/xsoxeg/simple_pixel_outline_shader/
+git-lfs example: https://gist.github.com/rynkowsg/f02f06fa0efee10c4de2c126f0d207a1
+Linear projectile prediction: https://www.youtube.com/watch?v=2zVwug_agr0
+
+Visual Art:
+Enemy sprite: https://assetstore.unity.com/packages/2d/characters/enemycow-227480
+https://assetstore.unity.com/packages/2d/characters/greek-fantasy-enemies-204779
+Enemy Bullet:
+https://assetstore.unity.com/packages/2d/characters/2d-pixel-spaceship-two-small-ships-131545
+Lightball Sprite: https://www.pngwing.com/en/free-png-dhjqj
+Vehicle Sprite: https://assetstore.unity.com/packages/2d/textures-materials/warped-vehicles-195248
+Map Tiles: https://github.com/Matteotti/Soul-Knight-For-Self-Study
+Missile Sprite: https://assetstore.unity.com/packages/2d/environments/2d-space-kit-27662
+Start/Win UI Background: https://assetstore.unity.com/packages/2d/textures-materials/nature/free-pixel-art-forest-133112
+Story Picture: Image by upklyak on Freepik https://www.freepik.com/free-vector/atomic-bomb-explosion-destroyed-city_28402515.htm#page=2&query=doomsday&position=15&from_view=search&track=sph
+
+Font: https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059
+
+Sound:
+Drop item: https://freesound.org/people/BeezleFM/sounds/512138/
+-https://creativecommons.org/licenses/by/4.0/
+Pickup item: https://freesound.org/people/niamhd00145229/sounds/422709/
+Collect item: https://freesound.org/people/1bob/sounds/651515/
+-https://creativecommons.org/licenses/by/4.0/
+Shotgun fire: https://freesound.org/people/AbuNijmeh/sounds/318973/
+Pistol fire: https://freesound.org/people/coolguy244e/sounds/266916/
+Other Weapon fire: https://assetstore.unity.com/packages/audio/sound-fx/weapons/weapon-soldier-sounds-pack-29662
+
+Music:
+"Malicious" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+"Mystic Force" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+"The Pyre" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+"Relent" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+Sound for Trailer:
+Footsteps: https://freesound.org/people/InspectorJ/sounds/336598/
+Wind: https://freesound.org/people/florianreichelt/sounds/459977/
+Marching: https://freesound.org/people/mattbronka/sounds/48048/
+Cloak: https://freesound.org/people/F.M.Audio/sounds/556754/
+Spawning: https://freesound.org/people/Contant_aghony/sounds/478179/
+Background: https://pixabay.com/music/main-title-defenders-of-the-truth-123265/

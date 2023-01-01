@@ -6,19 +6,34 @@ class GameBar extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `
             <div class="gamebar">
-                <a href="/about.html" class="gamebar-button">test</a>
-                <a href="/about.html" class="gamebar-button">test</a>
+                <a href="/projects/thelongroad.html" class="gamebar-button">
+                    <img src="/assets/longroad-images/icon.png" alt="" class="gamebar-button-icon">
+                    <p>The Long Road</p>
+                </a>
+                <a href="/projects/thingsontopofthings.html" class="gamebar-button">
+                    <img src="/assets/things-images/icon.png" alt="" class="gamebar-button-icon">
+                    <p>Things on Top of Things</p>
+                </a>
                 <a href="/projects/zelda-dungeon-1.html" class="gamebar-button">
-                    <img src="/assets/peek.png" alt="" class="gamebar-button-icon">
+                    <img src="/assets/zelda-images/icon.png" alt="" class="gamebar-button-icon">
                     <p>Zelda Recreation</p>
                 </a>
-                <a href="/about.html" class="gamebar-button">test</a>
+                <a href="/projects/supershoppers.html" class="gamebar-button">
+                    <img src="/assets/sshop-images/icon.png" alt="" class="gamebar-button-icon">
+                    <p>Super Shoppers</p>
+                </a>
                 <a href="/projects/breakfast-bus.html" class="gamebar-button">
                     <img src="/assets/bbus-images/bbus-icon.png" alt="" class="gamebar-button-icon">
                     <p>The Breakfast Bus</p>
                 </a>
-                <a href="/about.html" class="gamebar-button">test</a>
-                <a href="/links.html" class="gamebar-button">test</a>
+                <a href="/projects/daggershigh.html" class="gamebar-button">
+                    <img src="/assets/daggershigh-images/icon.png" alt="" class="gamebar-button-icon">
+                    <p>Daggers High</p>
+                </a>
+                <a href="/projects/gloriousascendency.html" class="gamebar-button">
+                    <img src="/assets/gloriousasc-images/icon.png" alt="" class="gamebar-button-icon">
+                    <p>Glorious Ascendency</p>
+                </a>
             </div>
         `;
         

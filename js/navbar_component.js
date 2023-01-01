@@ -11,7 +11,10 @@ class NavBar extends HTMLElement {
                 <a href="/about.html" class="navbar-button">About</a>
                 <a href="/links.html" class="navbar-button">Links</a>
                 <div class="navbar-contact">
-                    <p>contact!</p>
+                    <p style="margin-top: 5px">
+                        Email me at:
+                        wholepuncher1@gmail.com
+                    </p>
                 </div>
             </div>
         `;
